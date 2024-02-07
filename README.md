@@ -1,3 +1,2 @@
-# hello-world
-tutorial
-A bit about myself. 
+# Hideki
+CalState LA student
